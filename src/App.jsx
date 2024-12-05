@@ -1,11 +1,12 @@
-import Login from './componentes/login';
+import './App.css';
 
 function App() {
-    return (
-        <div>
-            <Login />
-        </div>
-    );
+  return (
+    <div>
+      <h1>Mi Proyecto con React y Vite</h1>
+      <p>Página en construcción</p>
+    </div>
+  );
 }
 
 export default App;
